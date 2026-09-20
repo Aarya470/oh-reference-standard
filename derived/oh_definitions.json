@@ -1,0 +1,712 @@
+[
+ {
+  "rec": "s0030DA",
+  "sub": "S0030",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 1,
+  "drop_min": 32.3,
+  "drop_pt": 11.968627621551988
+ },
+ {
+  "rec": "s0044DA",
+  "sub": "S0044",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 38.0,
+  "drop_pt": 16.04315361277773
+ },
+ {
+  "rec": "s0058DA",
+  "sub": "S0058",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 8.5,
+  "drop_pt": 6.121451832130788
+ },
+ {
+  "rec": "s0059DA",
+  "sub": "S0059",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 17.6,
+  "drop_pt": 8.672804571633804
+ },
+ {
+  "rec": "s0064DA",
+  "sub": "S0064",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 4.2,
+  "drop_pt": 1.4318328409246277
+ },
+ {
+  "rec": "s0067DA",
+  "sub": "S0067",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 8.5,
+  "drop_pt": 2.8994920763202146
+ },
+ {
+  "rec": "s0070DA",
+  "sub": "S0070",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 24.8,
+  "drop_pt": 14.661051843718425
+ },
+ {
+  "rec": "s0073DA",
+  "sub": "S0073",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 6.9,
+  "drop_pt": 2.6670806278413295
+ },
+ {
+  "rec": "s0074DA",
+  "sub": "S0074",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 15.6,
+  "drop_pt": 9.54453118740561
+ },
+ {
+  "rec": "s0075DA",
+  "sub": "S0075",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 15.6,
+  "drop_pt": 10.686436208586372
+ },
+ {
+  "rec": "s0076DA",
+  "sub": "S0076",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 1,
+  "oh_clin": 1,
+  "drop_min": 66.0,
+  "drop_pt": 55.387252167383
+ },
+ {
+  "rec": "s0078DA",
+  "sub": "S0078",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 15.3,
+  "drop_pt": 3.483850219320985
+ },
+ {
+  "rec": "s0080DA",
+  "sub": "S0080",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 1,
+  "oh_clin": 1,
+  "drop_min": 34.4,
+  "drop_pt": 27.31417656301059
+ },
+ {
+  "rec": "s0081DA",
+  "sub": "S0081",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 1,
+  "oh_clin": null,
+  "drop_min": 31.6,
+  "drop_pt": 26.98260639053042
+ },
+ {
+  "rec": "s0082DA",
+  "sub": "S0082",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 11.5,
+  "drop_pt": -10.368330196127815
+ },
+ {
+  "rec": "s0083DA",
+  "sub": "S0083",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 38.9,
+  "drop_pt": 16.798691381089867
+ },
+ {
+  "rec": "s0084DA",
+  "sub": "S0084",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 3.3,
+  "drop_pt": 2.770666053445865
+ },
+ {
+  "rec": "s0085DA",
+  "sub": "S0085",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 1,
+  "drop_min": 24.8,
+  "drop_pt": 5.845487276404825
+ },
+ {
+  "rec": "s0086DA",
+  "sub": "S0086",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 14.7,
+  "drop_pt": 7.156478883602489
+ },
+ {
+  "rec": "s0087DA",
+  "sub": "S0087",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 10.8,
+  "drop_pt": 0.007593014054478431
+ },
+ {
+  "rec": "s0088DA",
+  "sub": "S0088",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 3.4,
+  "drop_pt": 0.9392703744850621
+ },
+ {
+  "rec": "s0090DA",
+  "sub": "S0090",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 18.3,
+  "drop_pt": 7.499063814485851
+ },
+ {
+  "rec": "s0091DA",
+  "sub": "S0091",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 27.3,
+  "drop_pt": 18.783641605630194
+ },
+ {
+  "rec": "s0092DA",
+  "sub": "S0092",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": -0.6,
+  "drop_pt": -8.717907874893541
+ },
+ {
+  "rec": "s0093DA",
+  "sub": "S0093",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 1,
+  "oh_clin": 1,
+  "drop_min": 40.1,
+  "drop_pt": 35.33536790206324
+ },
+ {
+  "rec": "s0094DA",
+  "sub": "S0094",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 1.1,
+  "drop_pt": -4.192000426799325
+ },
+ {
+  "rec": "s0096DA",
+  "sub": "S0096",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": -6.0,
+  "drop_pt": -14.317333550370364
+ },
+ {
+  "rec": "s0097DA",
+  "sub": "S0097",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 6.6,
+  "drop_pt": 2.223394136149011
+ },
+ {
+  "rec": "s0098DA",
+  "sub": "S0098",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 43.4,
+  "drop_pt": -14.535015264641714
+ },
+ {
+  "rec": "s0101DA",
+  "sub": "S0101",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 17.7,
+  "drop_pt": 9.98121984506318
+ },
+ {
+  "rec": "s0103DA",
+  "sub": "S0103",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 23.1,
+  "drop_pt": 9.631735899511042
+ },
+ {
+  "rec": "s0105DA",
+  "sub": "S0105",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 5.3,
+  "drop_pt": -2.77254495244226
+ },
+ {
+  "rec": "s0107DA",
+  "sub": "S0107",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 3.8,
+  "drop_pt": -5.862856543204401
+ },
+ {
+  "rec": "s0112DA",
+  "sub": "S0112",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 21.6,
+  "drop_pt": 8.422372701169493
+ },
+ {
+  "rec": "s0113DA",
+  "sub": "S0113",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 6.6,
+  "drop_pt": -5.434628360835262
+ },
+ {
+  "rec": "s0129DA",
+  "sub": "S0129",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 12.5,
+  "drop_pt": 9.85875023156062
+ },
+ {
+  "rec": "s0133DA",
+  "sub": "S0133",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 13.8,
+  "drop_pt": -2.050182690119925
+ },
+ {
+  "rec": "s0134DA",
+  "sub": "S0134",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 27.2,
+  "drop_pt": 11.964317420860382
+ },
+ {
+  "rec": "s0135DA",
+  "sub": "S0135",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 9.8,
+  "drop_pt": 2.3854973988655246
+ },
+ {
+  "rec": "s0137DA",
+  "sub": "S0137",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 10.7,
+  "drop_pt": -18.433842291483984
+ },
+ {
+  "rec": "s0141DA",
+  "sub": "S0141",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": -1.9,
+  "drop_pt": -16.55407670651408
+ },
+ {
+  "rec": "s0142DA",
+  "sub": "S0142",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 1,
+  "drop_min": 0.9,
+  "drop_pt": -0.2972862736156827
+ },
+ {
+  "rec": "s0149DA",
+  "sub": "S0149",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 1,
+  "drop_min": 36.0,
+  "drop_pt": 18.02275308821106
+ },
+ {
+  "rec": "s0150DA",
+  "sub": "S0150",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 1,
+  "drop_min": -10.4,
+  "drop_pt": -16.62257003868652
+ },
+ {
+  "rec": "s0152DA",
+  "sub": "S0152",
+  "day": 1,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": 21.6,
+  "drop_pt": 17.941860606464815
+ },
+ {
+  "rec": "s0170DA",
+  "sub": "S0170",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 1,
+  "drop_min": 8.0,
+  "drop_pt": -7.734235505693491
+ },
+ {
+  "rec": "s0173DA",
+  "sub": "S0173",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": 0,
+  "drop_min": -2.2,
+  "drop_pt": -29.694736533053415
+ },
+ {
+  "rec": "s0198DA",
+  "sub": "S0198",
+  "day": 1,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 2.0,
+  "drop_pt": -11.921968821675591
+ },
+ {
+  "rec": "s0030DB",
+  "sub": "S0030",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 10.4,
+  "drop_pt": 4.787847606118504
+ },
+ {
+  "rec": "s0044DB",
+  "sub": "S0044",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 6.1,
+  "drop_pt": -12.47192286849753
+ },
+ {
+  "rec": "s0058DB",
+  "sub": "S0058",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 16.0,
+  "drop_pt": 5.317896407601836
+ },
+ {
+  "rec": "s0064DB",
+  "sub": "S0064",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 7.5,
+  "drop_pt": -2.0891905091966407
+ },
+ {
+  "rec": "s0067DB",
+  "sub": "S0067",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 1,
+  "oh_clin": null,
+  "drop_min": 31.1,
+  "drop_pt": 33.57185086632005
+ },
+ {
+  "rec": "s0070DB",
+  "sub": "S0070",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 29.0,
+  "drop_pt": 12.961940086324034
+ },
+ {
+  "rec": "s0073DB",
+  "sub": "S0073",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 14.2,
+  "drop_pt": 0.7921074533343244
+ },
+ {
+  "rec": "s0074DB",
+  "sub": "S0074",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 23.0,
+  "drop_pt": 19.8505474468151
+ },
+ {
+  "rec": "s0075DB",
+  "sub": "S0075",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 4.5,
+  "drop_pt": -2.0383382925592457
+ },
+ {
+  "rec": "s0076DB",
+  "sub": "S0076",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 1,
+  "oh_clin": null,
+  "drop_min": 74.5,
+  "drop_pt": 72.27861670774209
+ },
+ {
+  "rec": "s0078DB",
+  "sub": "S0078",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": -8.7,
+  "drop_pt": -12.611467235087957
+ },
+ {
+  "rec": "s0080DB",
+  "sub": "S0080",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 10.9,
+  "drop_pt": -0.8767645923285414
+ },
+ {
+  "rec": "s0082DB",
+  "sub": "S0082",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": -18.1,
+  "drop_pt": -22.87842744492103
+ },
+ {
+  "rec": "s0084DB",
+  "sub": "S0084",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 4.6,
+  "drop_pt": -0.9680593534793331
+ },
+ {
+  "rec": "s0085DB",
+  "sub": "S0085",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 33.7,
+  "drop_pt": 15.02020578063889
+ },
+ {
+  "rec": "s0091DB",
+  "sub": "S0091",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 19.3,
+  "drop_pt": 13.109906160617669
+ },
+ {
+  "rec": "s0093DB",
+  "sub": "S0093",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 1,
+  "oh_clin": null,
+  "drop_min": 63.3,
+  "drop_pt": 47.72751266891893
+ },
+ {
+  "rec": "s0096DB",
+  "sub": "S0096",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 23.0,
+  "drop_pt": 18.673926385337424
+ },
+ {
+  "rec": "s0099DB",
+  "sub": "S0099",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 19.6,
+  "drop_pt": 16.991572337107627
+ },
+ {
+  "rec": "s0103DB",
+  "sub": "S0103",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 10.1,
+  "drop_pt": -5.6011103042003185
+ },
+ {
+  "rec": "s0104DB",
+  "sub": "S0104",
+  "day": 2,
+  "oh_min": 1,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 21.8,
+  "drop_pt": -8.222096174532794
+ },
+ {
+  "rec": "s0105DB",
+  "sub": "S0105",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 1.3,
+  "drop_pt": -4.138234993404495
+ },
+ {
+  "rec": "s0109DB",
+  "sub": "S0109",
+  "day": 2,
+  "oh_min": 0,
+  "oh_pt": 0,
+  "oh_clin": null,
+  "drop_min": 5.8,
+  "drop_pt": -3.3002276171496874
+ }
+]

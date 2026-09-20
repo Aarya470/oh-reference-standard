@@ -1,0 +1,776 @@
+[
+ {
+  "record": "s0030DA",
+  "est": 683.0,
+  "score": 4.74,
+  "truth": 569.8,
+  "day": 1
+ },
+ {
+  "record": "s0044DA",
+  "est": 728.0,
+  "score": 5.88,
+  "truth": 729.3,
+  "day": 1
+ },
+ {
+  "record": "s0058DA",
+  "est": 651.0,
+  "score": 8.25,
+  "truth": 641.7,
+  "day": 1
+ },
+ {
+  "record": "s0059DA",
+  "est": 707.0,
+  "score": 7.87,
+  "truth": 707.7,
+  "day": 1
+ },
+ {
+  "record": "s0064DA",
+  "est": 749.0,
+  "score": 3.97,
+  "truth": 708.7,
+  "day": 1
+ },
+ {
+  "record": "s0067DA",
+  "est": 559.0,
+  "score": 15.25,
+  "truth": 559.6,
+  "day": 1
+ },
+ {
+  "record": "s0070DA",
+  "est": 261.0,
+  "score": 5.72,
+  "truth": 724.2,
+  "day": 1
+ },
+ {
+  "record": "s0073DA",
+  "est": 637.0,
+  "score": 13.27,
+  "truth": 630.5,
+  "day": 1
+ },
+ {
+  "record": "s0074DA",
+  "est": 606.0,
+  "score": 5.26,
+  "truth": 606.7,
+  "day": 1
+ },
+ {
+  "record": "s0075DA",
+  "est": 601.0,
+  "score": 4.48,
+  "truth": 677.2,
+  "day": 1
+ },
+ {
+  "record": "s0076DA",
+  "est": 199.0,
+  "score": 13.92,
+  "truth": 488.8,
+  "day": 1
+ },
+ {
+  "record": "s0078DA",
+  "est": 757.0,
+  "score": 5.44,
+  "truth": 451.1,
+  "day": 1
+ },
+ {
+  "record": "s0080DA",
+  "est": 800.0,
+  "score": 9.25,
+  "truth": 792.8,
+  "day": 1
+ },
+ {
+  "record": "s0081DA",
+  "est": 767.0,
+  "score": 11.39,
+  "truth": 767.7,
+  "day": 1
+ },
+ {
+  "record": "s0082DA",
+  "est": 541.0,
+  "score": 4.74,
+  "truth": 730.1,
+  "day": 1
+ },
+ {
+  "record": "s0083DA",
+  "est": 173.0,
+  "score": 6.57,
+  "truth": 596.4,
+  "day": 1
+ },
+ {
+  "record": "s0084DA",
+  "est": 773.0,
+  "score": 1.98,
+  "truth": 1021.5,
+  "day": 1
+ },
+ {
+  "record": "s0085DA",
+  "est": 636.0,
+  "score": 4.96,
+  "truth": 637.2,
+  "day": 1
+ },
+ {
+  "record": "s0086DA",
+  "est": 796.0,
+  "score": 15.63,
+  "truth": 792.8,
+  "day": 1
+ },
+ {
+  "record": "s0087DA",
+  "est": 618.0,
+  "score": 25.42,
+  "truth": 621.2,
+  "day": 1
+ },
+ {
+  "record": "s0088DA",
+  "est": 682.0,
+  "score": 10.66,
+  "truth": 673.8,
+  "day": 1
+ },
+ {
+  "record": "s0090DA",
+  "est": 194.0,
+  "score": 9.71,
+  "truth": 667.3,
+  "day": 1
+ },
+ {
+  "record": "s0091DA",
+  "est": 601.0,
+  "score": 9.44,
+  "truth": 598.2,
+  "day": 1
+ },
+ {
+  "record": "s0092DA",
+  "est": 705.0,
+  "score": 14.8,
+  "truth": 758.0,
+  "day": 1
+ },
+ {
+  "record": "s0093DA",
+  "est": 734.0,
+  "score": 9.01,
+  "truth": 726.3,
+  "day": 1
+ },
+ {
+  "record": "s0094DA",
+  "est": 664.0,
+  "score": 9.57,
+  "truth": 666.3,
+  "day": 1
+ },
+ {
+  "record": "s0096DA",
+  "est": 689.0,
+  "score": 4.16,
+  "truth": 809.0,
+  "day": 1
+ },
+ {
+  "record": "s0097DA",
+  "est": 827.0,
+  "score": 7.1,
+  "truth": 823.5,
+  "day": 1
+ },
+ {
+  "record": "s0098DA",
+  "est": 174.0,
+  "score": 5.45,
+  "truth": 770.5,
+  "day": 1
+ },
+ {
+  "record": "s0099DA",
+  "est": 948.0,
+  "score": 3.78,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0101DA",
+  "est": 679.0,
+  "score": 4.94,
+  "truth": 677.5,
+  "day": 1
+ },
+ {
+  "record": "s0103DA",
+  "est": 672.0,
+  "score": 7.58,
+  "truth": 699.7,
+  "day": 1
+ },
+ {
+  "record": "s0105DA",
+  "est": 171.0,
+  "score": 3.97,
+  "truth": 708.7,
+  "day": 1
+ },
+ {
+  "record": "s0107DA",
+  "est": 720.0,
+  "score": 9.64,
+  "truth": 721.2,
+  "day": 1
+ },
+ {
+  "record": "s0109DA",
+  "est": 171.0,
+  "score": 10.98,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0110DA",
+  "est": 656.0,
+  "score": 9.32,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0111DA",
+  "est": 344.0,
+  "score": 2.38,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0112DA",
+  "est": 765.0,
+  "score": 12.23,
+  "truth": 746.8,
+  "day": 1
+ },
+ {
+  "record": "s0113DA",
+  "est": 121.0,
+  "score": 9.4,
+  "truth": 710.1,
+  "day": 1
+ },
+ {
+  "record": "s0114DA",
+  "est": 191.0,
+  "score": 9.88,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0126DA",
+  "est": 893.0,
+  "score": 1.7,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0128DA",
+  "est": 775.0,
+  "score": 4.76,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0129DA",
+  "est": 648.0,
+  "score": 13.04,
+  "truth": 641.0,
+  "day": 1
+ },
+ {
+  "record": "s0131DA",
+  "est": 637.0,
+  "score": 9.73,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0133DA",
+  "est": 718.0,
+  "score": 7.03,
+  "truth": 748.5,
+  "day": 1
+ },
+ {
+  "record": "s0134DA",
+  "est": 543.0,
+  "score": 5.51,
+  "truth": 790.4,
+  "day": 1
+ },
+ {
+  "record": "s0135DA",
+  "est": 788.0,
+  "score": 6.06,
+  "truth": 829.8,
+  "day": 1
+ },
+ {
+  "record": "s0137DA",
+  "est": 764.0,
+  "score": 3.19,
+  "truth": 748.1,
+  "day": 1
+ },
+ {
+  "record": "s0141DA",
+  "est": 697.0,
+  "score": 4.86,
+  "truth": 692.3,
+  "day": 1
+ },
+ {
+  "record": "s0142DA",
+  "est": 127.0,
+  "score": 9.66,
+  "truth": 281.3,
+  "day": 1
+ },
+ {
+  "record": "s0148DA",
+  "est": 945.0,
+  "score": 5.55,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0149DA",
+  "est": 689.0,
+  "score": 5.87,
+  "truth": 669.6,
+  "day": 1
+ },
+ {
+  "record": "s0150DA",
+  "est": 259.0,
+  "score": 4.95,
+  "truth": 695.3,
+  "day": 1
+ },
+ {
+  "record": "s0152DA",
+  "est": 823.0,
+  "score": 6.6,
+  "truth": 841.2,
+  "day": 1
+ },
+ {
+  "record": "s0170DA",
+  "est": 229.0,
+  "score": 6.42,
+  "truth": 706.3,
+  "day": 1
+ },
+ {
+  "record": "s0171DA",
+  "est": 135.0,
+  "score": 3.98,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0173DA",
+  "est": 201.0,
+  "score": 5.0,
+  "truth": 667.7,
+  "day": 1
+ },
+ {
+  "record": "s0198DA",
+  "est": 675.0,
+  "score": 4.91,
+  "truth": 689.0,
+  "day": 1
+ },
+ {
+  "record": "s0202DA",
+  "est": 852.0,
+  "score": 9.72,
+  "truth": null,
+  "day": 1
+ },
+ {
+  "record": "s0030DB",
+  "est": 2613.0,
+  "score": 10.33,
+  "truth": 1948.4,
+  "day": 2
+ },
+ {
+  "record": "s0044DB",
+  "est": 1335.0,
+  "score": 12.89,
+  "truth": 1721.7,
+  "day": 2
+ },
+ {
+  "record": "s0058DB",
+  "est": 3062.0,
+  "score": 8.28,
+  "truth": 2348.3,
+  "day": 2
+ },
+ {
+  "record": "s0059DB",
+  "est": 570.0,
+  "score": 1.3,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0063DB",
+  "est": 1600.0,
+  "score": 8.5,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0064DB",
+  "est": 1563.0,
+  "score": 9.33,
+  "truth": 1241.6,
+  "day": 2
+ },
+ {
+  "record": "s0067DB",
+  "est": 1670.0,
+  "score": 14.11,
+  "truth": 1692.7,
+  "day": 2
+ },
+ {
+  "record": "s0070DB",
+  "est": 2582.0,
+  "score": 10.06,
+  "truth": 1754.1,
+  "day": 2
+ },
+ {
+  "record": "s0073DB",
+  "est": 2296.0,
+  "score": 11.04,
+  "truth": 1587.7,
+  "day": 2
+ },
+ {
+  "record": "s0074DB",
+  "est": 1201.0,
+  "score": 7.08,
+  "truth": 1605.5,
+  "day": 2
+ },
+ {
+  "record": "s0075DB",
+  "est": 1280.0,
+  "score": 14.1,
+  "truth": 1693.2,
+  "day": 2
+ },
+ {
+  "record": "s0076DB",
+  "est": 900.0,
+  "score": 7.45,
+  "truth": 1509.0,
+  "day": 2
+ },
+ {
+  "record": "s0078DB",
+  "est": 1633.0,
+  "score": 11.23,
+  "truth": 1945.1,
+  "day": 2
+ },
+ {
+  "record": "s0080DB",
+  "est": 1616.0,
+  "score": 15.4,
+  "truth": 1630.5,
+  "day": 2
+ },
+ {
+  "record": "s0082DB",
+  "est": 2409.0,
+  "score": 3.57,
+  "truth": 1708.9,
+  "day": 2
+ },
+ {
+  "record": "s0084DB",
+  "est": 2111.0,
+  "score": 3.97,
+  "truth": 1462.6,
+  "day": 2
+ },
+ {
+  "record": "s0085DB",
+  "est": 1689.0,
+  "score": 7.46,
+  "truth": 1372.6,
+  "day": 2
+ },
+ {
+  "record": "s0086DB",
+  "est": 610.0,
+  "score": 7.5,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0087DB",
+  "est": 593.0,
+  "score": 8.09,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0088DB",
+  "est": 1968.0,
+  "score": 9.16,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0091DB",
+  "est": 1737.0,
+  "score": 17.74,
+  "truth": 1740.9,
+  "day": 2
+ },
+ {
+  "record": "s0093DB",
+  "est": 1512.0,
+  "score": 9.33,
+  "truth": 1597.4,
+  "day": 2
+ },
+ {
+  "record": "s0094DB",
+  "est": 1707.0,
+  "score": 14.3,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0096DB",
+  "est": 2012.0,
+  "score": 6.0,
+  "truth": 1459.8,
+  "day": 2
+ },
+ {
+  "record": "s0097DB",
+  "est": 1728.0,
+  "score": 7.13,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0098DB",
+  "est": 1383.0,
+  "score": 11.52,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0099DB",
+  "est": 2419.0,
+  "score": 5.68,
+  "truth": 1275.4,
+  "day": 2
+ },
+ {
+  "record": "s0101DB",
+  "est": 2433.0,
+  "score": 8.2,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0103DB",
+  "est": 2380.0,
+  "score": 6.61,
+  "truth": 1889.0,
+  "day": 2
+ },
+ {
+  "record": "s0104DB",
+  "est": 2502.0,
+  "score": 11.17,
+  "truth": 1771.4,
+  "day": 2
+ },
+ {
+  "record": "s0105DB",
+  "est": 2357.0,
+  "score": 4.96,
+  "truth": 1671.5,
+  "day": 2
+ },
+ {
+  "record": "s0107DB",
+  "est": 2400.0,
+  "score": 11.59,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0108DB",
+  "est": 2724.0,
+  "score": 13.9,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0109DB",
+  "est": 2404.0,
+  "score": 22.5,
+  "truth": 1695.2,
+  "day": 2
+ },
+ {
+  "record": "s0112DB",
+  "est": 1766.0,
+  "score": 7.98,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0113DB",
+  "est": 1027.0,
+  "score": 6.73,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0125DB",
+  "est": 1801.0,
+  "score": 5.9,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0126DB",
+  "est": 2384.0,
+  "score": 4.16,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0127DB",
+  "est": 2263.0,
+  "score": 9.5,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0128DB",
+  "est": 2252.0,
+  "score": 9.91,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0129DB",
+  "est": 2733.0,
+  "score": 13.11,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0131DB",
+  "est": 2372.0,
+  "score": 6.07,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0133DB",
+  "est": 2574.0,
+  "score": 12.91,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0134DB",
+  "est": 1396.0,
+  "score": 14.48,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0135DB",
+  "est": 2138.0,
+  "score": 6.8,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0137DB",
+  "est": 1674.0,
+  "score": 17.69,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0140DB",
+  "est": 100.0,
+  "score": 0.76,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0142DB",
+  "est": 1708.0,
+  "score": 17.23,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0149DB",
+  "est": 1772.0,
+  "score": 6.19,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0150DB",
+  "est": 1088.0,
+  "score": 5.35,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0152DB",
+  "est": 2345.0,
+  "score": 7.41,
+  "truth": null,
+  "day": 2
+ },
+ {
+  "record": "s0168DB",
+  "err": "Samples were not loaded correctly"
+ }
+]

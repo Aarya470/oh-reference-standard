@@ -1,0 +1,641 @@
+{
+ "s0030DA": {
+  "delta_SBP": 11.97,
+  "delta_DBP": -1.04,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 131.4,
+  "baseline_DBP": 87.0,
+  "delta_SBP_pct": 9.11,
+  "timepoints_available": 2
+ },
+ "s0044DA": {
+  "delta_SBP": 16.04,
+  "delta_DBP": -0.24,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 146.3,
+  "baseline_DBP": 70.2,
+  "delta_SBP_pct": 10.97,
+  "timepoints_available": 2
+ },
+ "s0058DA": {
+  "delta_SBP": 6.12,
+  "delta_DBP": -8.28,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 140.4,
+  "baseline_DBP": 62.0,
+  "delta_SBP_pct": 4.36,
+  "timepoints_available": 2
+ },
+ "s0059DA": {
+  "delta_SBP": 8.67,
+  "delta_DBP": 1.42,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 144.9,
+  "baseline_DBP": 74.9,
+  "delta_SBP_pct": 5.98,
+  "timepoints_available": 2
+ },
+ "s0064DA": {
+  "delta_SBP": 1.43,
+  "delta_DBP": -4.93,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 92.4,
+  "baseline_DBP": 52.1,
+  "delta_SBP_pct": 1.55,
+  "timepoints_available": 2
+ },
+ "s0067DA": {
+  "delta_SBP": 2.9,
+  "delta_DBP": -1.97,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 123.2,
+  "baseline_DBP": 72.7,
+  "delta_SBP_pct": 2.35,
+  "timepoints_available": 2
+ },
+ "s0070DA": {
+  "delta_SBP": 14.66,
+  "delta_DBP": 3.76,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 140.8,
+  "baseline_DBP": 94.8,
+  "delta_SBP_pct": 10.41,
+  "timepoints_available": 2
+ },
+ "s0073DA": {
+  "delta_SBP": 2.67,
+  "delta_DBP": -8.46,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 115.0,
+  "baseline_DBP": 63.1,
+  "delta_SBP_pct": 2.32,
+  "timepoints_available": 2
+ },
+ "s0074DA": {
+  "delta_SBP": 9.54,
+  "delta_DBP": 2.41,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 121.5,
+  "baseline_DBP": 66.9,
+  "delta_SBP_pct": 7.86,
+  "timepoints_available": 2
+ },
+ "s0075DA": {
+  "delta_SBP": 10.69,
+  "delta_DBP": 0.19,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 120.5,
+  "baseline_DBP": 76.6,
+  "delta_SBP_pct": 8.87,
+  "timepoints_available": 2
+ },
+ "s0076DA": {
+  "delta_SBP": 55.39,
+  "delta_DBP": 14.88,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 144.4,
+  "baseline_DBP": 67.2,
+  "delta_SBP_pct": 38.35,
+  "timepoints_available": 2
+ },
+ "s0078DA": {
+  "delta_SBP": 3.48,
+  "delta_DBP": 3.31,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 100.6,
+  "baseline_DBP": 60.6,
+  "delta_SBP_pct": 3.46,
+  "timepoints_available": 2
+ },
+ "s0080DA": {
+  "delta_SBP": 27.31,
+  "delta_DBP": 2.92,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 135.5,
+  "baseline_DBP": 74.0,
+  "delta_SBP_pct": 20.16,
+  "timepoints_available": 2
+ },
+ "s0081DA": {
+  "delta_SBP": 26.98,
+  "delta_DBP": 3.78,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 121.6,
+  "baseline_DBP": 64.0,
+  "delta_SBP_pct": 22.19,
+  "timepoints_available": 2
+ },
+ "s0082DA": {
+  "delta_SBP": -10.37,
+  "delta_DBP": -9.14,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 109.5,
+  "baseline_DBP": 74.5,
+  "delta_SBP_pct": -9.47,
+  "timepoints_available": 2
+ },
+ "s0083DA": {
+  "delta_SBP": 16.8,
+  "delta_DBP": 6.09,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 115.7,
+  "baseline_DBP": 64.0,
+  "delta_SBP_pct": 14.52,
+  "timepoints_available": 2
+ },
+ "s0084DA": {
+  "delta_SBP": 2.77,
+  "delta_DBP": 2.77,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 152.9,
+  "baseline_DBP": 77.3,
+  "delta_SBP_pct": 1.81,
+  "timepoints_available": 2
+ },
+ "s0085DA": {
+  "delta_SBP": 5.85,
+  "delta_DBP": -3.01,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 118.4,
+  "baseline_DBP": 66.8,
+  "delta_SBP_pct": 4.94,
+  "timepoints_available": 2
+ },
+ "s0086DA": {
+  "delta_SBP": 7.16,
+  "delta_DBP": -8.73,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 115.1,
+  "baseline_DBP": 70.2,
+  "delta_SBP_pct": 6.22,
+  "timepoints_available": 2
+ },
+ "s0087DA": {
+  "delta_SBP": 0.01,
+  "delta_DBP": -14.69,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 112.3,
+  "baseline_DBP": 67.4,
+  "delta_SBP_pct": 0.01,
+  "timepoints_available": 2
+ },
+ "s0088DA": {
+  "delta_SBP": 0.94,
+  "delta_DBP": -7.39,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 116.6,
+  "baseline_DBP": 74.0,
+  "delta_SBP_pct": 0.81,
+  "timepoints_available": 2
+ },
+ "s0090DA": {
+  "delta_SBP": 7.5,
+  "delta_DBP": 3.7,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 154.3,
+  "baseline_DBP": 78.4,
+  "delta_SBP_pct": 4.86,
+  "timepoints_available": 2
+ },
+ "s0091DA": {
+  "delta_SBP": 18.78,
+  "delta_DBP": 4.85,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 127.3,
+  "baseline_DBP": 66.8,
+  "delta_SBP_pct": 14.75,
+  "timepoints_available": 2
+ },
+ "s0092DA": {
+  "delta_SBP": -8.72,
+  "delta_DBP": -5.85,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 140.6,
+  "baseline_DBP": 64.8,
+  "delta_SBP_pct": -6.2,
+  "timepoints_available": 2
+ },
+ "s0093DA": {
+  "delta_SBP": 35.34,
+  "delta_DBP": 5.81,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 167.5,
+  "baseline_DBP": 78.9,
+  "delta_SBP_pct": 21.09,
+  "timepoints_available": 2
+ },
+ "s0094DA": {
+  "delta_SBP": -4.19,
+  "delta_DBP": -7.18,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 148.1,
+  "baseline_DBP": 71.5,
+  "delta_SBP_pct": -2.83,
+  "timepoints_available": 2
+ },
+ "s0096DA": {
+  "delta_SBP": -14.32,
+  "delta_DBP": 0.11,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 111.7,
+  "baseline_DBP": 46.7,
+  "delta_SBP_pct": -12.82,
+  "timepoints_available": 2
+ },
+ "s0097DA": {
+  "delta_SBP": 2.22,
+  "delta_DBP": -8.33,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 131.8,
+  "baseline_DBP": 68.6,
+  "delta_SBP_pct": 1.69,
+  "timepoints_available": 2
+ },
+ "s0098DA": {
+  "delta_SBP": -14.54,
+  "delta_DBP": -14.41,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 133.4,
+  "baseline_DBP": 80.1,
+  "delta_SBP_pct": -10.9,
+  "timepoints_available": 2
+ },
+ "s0101DA": {
+  "delta_SBP": 9.98,
+  "delta_DBP": 7.56,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 123.8,
+  "baseline_DBP": 88.3,
+  "delta_SBP_pct": 8.06,
+  "timepoints_available": 2
+ },
+ "s0103DA": {
+  "delta_SBP": 9.63,
+  "delta_DBP": -19.3,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 132.5,
+  "baseline_DBP": 62.2,
+  "delta_SBP_pct": 7.27,
+  "timepoints_available": 2
+ },
+ "s0105DA": {
+  "delta_SBP": -2.77,
+  "delta_DBP": -2.73,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 127.1,
+  "baseline_DBP": 69.7,
+  "delta_SBP_pct": -2.18,
+  "timepoints_available": 2
+ },
+ "s0107DA": {
+  "delta_SBP": -5.86,
+  "delta_DBP": -4.48,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 118.3,
+  "baseline_DBP": 64.3,
+  "delta_SBP_pct": -4.96,
+  "timepoints_available": 2
+ },
+ "s0112DA": {
+  "delta_SBP": 8.42,
+  "delta_DBP": -6.78,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 100.2,
+  "baseline_DBP": 54.9,
+  "delta_SBP_pct": 8.41,
+  "timepoints_available": 2
+ },
+ "s0113DA": {
+  "delta_SBP": -5.43,
+  "delta_DBP": -3.4,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 117.5,
+  "baseline_DBP": 63.4,
+  "delta_SBP_pct": -4.63,
+  "timepoints_available": 2
+ },
+ "s0129DA": {
+  "delta_SBP": 9.86,
+  "delta_DBP": -8.56,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 123.5,
+  "baseline_DBP": 61.1,
+  "delta_SBP_pct": 7.99,
+  "timepoints_available": 2
+ },
+ "s0133DA": {
+  "delta_SBP": -2.05,
+  "delta_DBP": -5.47,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 139.3,
+  "baseline_DBP": 59.0,
+  "delta_SBP_pct": -1.47,
+  "timepoints_available": 2
+ },
+ "s0134DA": {
+  "delta_SBP": 11.96,
+  "delta_DBP": -0.88,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 116.3,
+  "baseline_DBP": 76.5,
+  "delta_SBP_pct": 10.29,
+  "timepoints_available": 2
+ },
+ "s0135DA": {
+  "delta_SBP": 2.39,
+  "delta_DBP": -4.98,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 118.1,
+  "baseline_DBP": 79.6,
+  "delta_SBP_pct": 2.02,
+  "timepoints_available": 2
+ },
+ "s0137DA": {
+  "delta_SBP": -18.43,
+  "delta_DBP": -21.22,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 128.7,
+  "baseline_DBP": 74.9,
+  "delta_SBP_pct": -14.33,
+  "timepoints_available": 2
+ },
+ "s0141DA": {
+  "delta_SBP": -16.55,
+  "delta_DBP": -12.99,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 95.1,
+  "baseline_DBP": 59.7,
+  "delta_SBP_pct": -17.41,
+  "timepoints_available": 2
+ },
+ "s0142DA": {
+  "delta_SBP": -0.3,
+  "delta_DBP": 1.96,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 127.6,
+  "baseline_DBP": 95.9,
+  "delta_SBP_pct": -0.23,
+  "timepoints_available": 2
+ },
+ "s0149DA": {
+  "delta_SBP": 18.02,
+  "delta_DBP": 1.37,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 170.4,
+  "baseline_DBP": 60.1,
+  "delta_SBP_pct": 10.58,
+  "timepoints_available": 2
+ },
+ "s0150DA": {
+  "delta_SBP": -16.62,
+  "delta_DBP": -7.8,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 132.6,
+  "baseline_DBP": 63.1,
+  "delta_SBP_pct": -12.54,
+  "timepoints_available": 2
+ },
+ "s0152DA": {
+  "delta_SBP": 17.94,
+  "delta_DBP": -0.01,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 130.6,
+  "baseline_DBP": 72.2,
+  "delta_SBP_pct": 13.74,
+  "timepoints_available": 2
+ },
+ "s0170DA": {
+  "delta_SBP": -7.73,
+  "delta_DBP": -8.88,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 112.9,
+  "baseline_DBP": 61.3,
+  "delta_SBP_pct": -6.85,
+  "timepoints_available": 2
+ },
+ "s0173DA": {
+  "delta_SBP": -29.69,
+  "delta_DBP": -8.02,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 121.8,
+  "baseline_DBP": 52.6,
+  "delta_SBP_pct": -24.37,
+  "timepoints_available": 2
+ },
+ "s0198DA": {
+  "delta_SBP": -11.92,
+  "delta_DBP": -9.35,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 137.5,
+  "baseline_DBP": 60.9,
+  "delta_SBP_pct": -8.67,
+  "timepoints_available": 2
+ },
+ "s0030DB": {
+  "delta_SBP": 4.79,
+  "delta_DBP": -1.83,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 105.5,
+  "baseline_DBP": 56.4,
+  "delta_SBP_pct": 4.54,
+  "timepoints_available": 2
+ },
+ "s0044DB": {
+  "delta_SBP": -12.47,
+  "delta_DBP": -7.13,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 123.2,
+  "baseline_DBP": 76.4,
+  "delta_SBP_pct": -10.12,
+  "timepoints_available": 2
+ },
+ "s0058DB": {
+  "delta_SBP": 5.32,
+  "delta_DBP": -5.03,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 137.2,
+  "baseline_DBP": 61.4,
+  "delta_SBP_pct": 3.88,
+  "timepoints_available": 2
+ },
+ "s0064DB": {
+  "delta_SBP": -2.09,
+  "delta_DBP": -0.03,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 101.1,
+  "baseline_DBP": 44.0,
+  "delta_SBP_pct": -2.07,
+  "timepoints_available": 2
+ },
+ "s0067DB": {
+  "delta_SBP": 33.57,
+  "delta_DBP": 13.03,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 129.9,
+  "baseline_DBP": 81.9,
+  "delta_SBP_pct": 25.85,
+  "timepoints_available": 2
+ },
+ "s0070DB": {
+  "delta_SBP": 12.96,
+  "delta_DBP": 0.24,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 151.3,
+  "baseline_DBP": 75.8,
+  "delta_SBP_pct": 8.57,
+  "timepoints_available": 2
+ },
+ "s0073DB": {
+  "delta_SBP": 0.79,
+  "delta_DBP": -7.74,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 133.4,
+  "baseline_DBP": 69.6,
+  "delta_SBP_pct": 0.59,
+  "timepoints_available": 2
+ },
+ "s0074DB": {
+  "delta_SBP": 19.85,
+  "delta_DBP": 5.45,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 125.9,
+  "baseline_DBP": 60.9,
+  "delta_SBP_pct": 15.76,
+  "timepoints_available": 2
+ },
+ "s0075DB": {
+  "delta_SBP": -2.04,
+  "delta_DBP": -9.52,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 142.8,
+  "baseline_DBP": 84.6,
+  "delta_SBP_pct": -1.43,
+  "timepoints_available": 2
+ },
+ "s0076DB": {
+  "delta_SBP": 72.28,
+  "delta_DBP": 14.54,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 161.8,
+  "baseline_DBP": 78.4,
+  "delta_SBP_pct": 44.66,
+  "timepoints_available": 2
+ },
+ "s0078DB": {
+  "delta_SBP": -12.61,
+  "delta_DBP": 8.78,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 138.6,
+  "baseline_DBP": 82.7,
+  "delta_SBP_pct": -9.1,
+  "timepoints_available": 1
+ },
+ "s0080DB": {
+  "delta_SBP": -0.88,
+  "delta_DBP": -7.74,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 109.5,
+  "baseline_DBP": 71.3,
+  "delta_SBP_pct": -0.8,
+  "timepoints_available": 2
+ },
+ "s0082DB": {
+  "delta_SBP": -22.88,
+  "delta_DBP": -19.17,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 121.5,
+  "baseline_DBP": 77.1,
+  "delta_SBP_pct": -18.84,
+  "timepoints_available": 2
+ },
+ "s0084DB": {
+  "delta_SBP": -0.97,
+  "delta_DBP": -6.29,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 156.4,
+  "baseline_DBP": 61.7,
+  "delta_SBP_pct": -0.62,
+  "timepoints_available": 2
+ },
+ "s0085DB": {
+  "delta_SBP": 15.02,
+  "delta_DBP": 8.88,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 143.2,
+  "baseline_DBP": 69.5,
+  "delta_SBP_pct": 10.49,
+  "timepoints_available": 2
+ },
+ "s0091DB": {
+  "delta_SBP": 13.11,
+  "delta_DBP": -3.81,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 146.9,
+  "baseline_DBP": 81.7,
+  "delta_SBP_pct": 8.92,
+  "timepoints_available": 2
+ },
+ "s0093DB": {
+  "delta_SBP": 47.73,
+  "delta_DBP": 14.81,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 143.9,
+  "baseline_DBP": 82.8,
+  "delta_SBP_pct": 33.17,
+  "timepoints_available": 2
+ },
+ "s0096DB": {
+  "delta_SBP": 18.67,
+  "delta_DBP": -1.86,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 139.6,
+  "baseline_DBP": 57.3,
+  "delta_SBP_pct": 13.38,
+  "timepoints_available": 2
+ },
+ "s0099DB": {
+  "delta_SBP": 16.99,
+  "delta_DBP": 7.92,
+  "at_timepoint": 180.0,
+  "baseline_SBP": 129.8,
+  "baseline_DBP": 66.0,
+  "delta_SBP_pct": 13.09,
+  "timepoints_available": 2
+ },
+ "s0103DB": {
+  "delta_SBP": -5.6,
+  "delta_DBP": -9.85,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 132.3,
+  "baseline_DBP": 70.6,
+  "delta_SBP_pct": -4.23,
+  "timepoints_available": 2
+ },
+ "s0104DB": {
+  "delta_SBP": -8.22,
+  "delta_DBP": -11.22,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 134.2,
+  "baseline_DBP": 75.3,
+  "delta_SBP_pct": -6.13,
+  "timepoints_available": 2
+ },
+ "s0105DB": {
+  "delta_SBP": -4.14,
+  "delta_DBP": -2.19,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 137.4,
+  "baseline_DBP": 65.1,
+  "delta_SBP_pct": -3.01,
+  "timepoints_available": 2
+ },
+ "s0109DB": {
+  "delta_SBP": -3.3,
+  "delta_DBP": -10.76,
+  "at_timepoint": 60.0,
+  "baseline_SBP": 142.8,
+  "baseline_DBP": 79.1,
+  "delta_SBP_pct": -2.31,
+  "timepoints_available": 2
+ }
+}

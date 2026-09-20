@@ -1,0 +1,66 @@
+{
+ "cohort_diabetes": {
+  "records": 71,
+  "subjects": 51,
+  "prevalence": {
+   "A_minimum": 0.38,
+   "B_timepoints": 0.1,
+   "C_final60": 0.08
+  },
+  "best_vs_clinicians": {
+   "reading": "B",
+   "kappa": 0.426,
+   "agreement": 0.83
+  },
+  "continuous_r_vs_clinicians": 0.635,
+  "day_to_day": {
+   "n_pairs": 20,
+   "kappa_readingB": 0.608,
+   "kappa_readingA": 0.2,
+   "ICC_continuous": 0.586,
+   "within_subject_SD_mmHg": 12.6
+  }
+ },
+ "cohort_stroke_cves": {
+  "records": 54,
+  "subjects": 54,
+  "of": 68,
+  "prevalence": {
+   "A_minimum": 0.463,
+   "B_timepoints": 0.185,
+   "C_final60": 0.111
+  },
+  "anchoring_check": {
+   "tilt_span_median_s": 612,
+   "protocol_s": 600,
+   "tilt_level_r_vs_clinicians": 0.899,
+   "baseline_HR_r_vs_clinicians": 0.919
+  },
+  "best_vs_clinicians": {
+   "reading": "matched tilt-mean",
+   "kappa": 0.48,
+   "agreement": 0.96
+  },
+  "continuous_r_vs_clinicians": {
+   "SBP": -0.162,
+   "DBP": 0.5
+  }
+ },
+ "prediction_C4_diabetes_only": {
+  "rho": 0.179,
+  "null_97_5": 0.223,
+  "p": 0.069,
+  "MAE": 13.49,
+  "MAE_predict_mean": 12.24,
+  "verdict": "NEGATIVE"
+ },
+ "data_defects": {
+  "sampling_rate_declared": 1000,
+  "sampling_rate_true": 500,
+  "lines_of_evidence": 8,
+  "cves_RECORDS_duplicates_tilt_folder": {
+   "lines": 136,
+   "unique": 68
+  }
+ }
+}
